@@ -1,0 +1,22 @@
+p{
+    text-align: justify;
+}
+
+.title{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.logo {
+    padding: 10px;
+    flex: none;
+    width: 256px;
+}
+
+.titletext {
+    padding: 10px;
+    flex: auto;
+    font-size: xx-large;
+    text-align: left;
+}
+

@@ -1,0 +1,30 @@
+On entend souvent que les abeilles sont essentielles pour la reproduction des plantes, voire même la survie de l’humanité. En effet les insectes sont nécessaire à 80% des plantes cultivées, et 80% de cette pollinisation est due aux abeilles. Leur disparition pourrait donc entraîner une catastrophe environnementale, alimentaire et économique sans précédent.
+
+En 2014 une étude estime de l’université de Reading, au Royaume-Uni concluait qu’il manquait 13,4 millions de colonies d’abeilles en Europe. Ce déficit est liés à plusieurs raisons. Premièrement ces dernières années les besoins en pollinisation ont augmentés, notamment avec l’augmentation des surfaces cultivables dédiées aux biocarburants. De plus la population d’abeilles domestique a chuté de 25% en Europe entre 1985 et 2005.
+
+Les causes de leur déclin sont multiples: dérèglement climatique, parasites, maladies, traitements phytosanitaires… Il en résulte donc une diminution de la production de miel et une augmentation des importations.
+
+Fort de ces constats M. Larmande et plusieurs professeurs du lycée Saint-Exupéry à Marseille ont décidés de monter le projet ApiCO, pour Apiculture Connectée. Ce projet verra la mise en place de ruches munies de capteurs afin de collecter et d’analyser des données relatives aux essaims installés au cœur même du lycée.
+
+Les axes principaux seront:
+    • Sensibiliser les élèves à certains effets de l’homme sur l’environnement
+    • Faire découvrir aux élèves un « monde » inconnue et original
+    • Intégrer au programme de science du lycée une application concrète et innovante
+
+Il s’appuiera sur les programmes de lycée de plusieurs disciplines: SVT, Physique Chimie, et NSI.
+
+Lors de la première année il faudra acquérir les ruches et leur implanter des capteurs afin de mesurer :
+    • La température
+    • L’humidité
+    • Le taux de CO2
+    • La masse de la ruche
+    • L’activité des abeilles
+
+Ces données seront récupérées sur un serveur et présentées sur un site internet réalisé par les élèves de NSI.
+
+Pour les années futures les données permettrons de réaliser des études scientifiques exploitables par les élèves en SVT. Il sera également possible d’impliquer les élèves dans la gestion du rucher (traitements, nourissement, récolte du miel…)
+
+Afin de développer encore le projet il est possible de faire réaliser des ruches Kenyanes (horizontales) par une filière professionnelle. Il est aussi envisageable de réaliser une station météo afin de corréler l’activité de la ruches à des paramètres extérieurs tels que :
+- la vitesse du vent
+- la température extérieur
+- la pression atmosphérique
